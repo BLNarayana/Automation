@@ -13,6 +13,6 @@ public class First
 		b=sc.nextInt();
 		System.out.println("Entered Integer is "+b);
 		
-		System.out.println("Enter the input value from command prompt is "+a[0]);
+		System.out.println("Enter input value from command prompt is "+a[0]);
 	}
 }
